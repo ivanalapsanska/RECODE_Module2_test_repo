@@ -1,3 +1,10 @@
+#Ivanas personal
+file_name* 
+*.png 
+*.jpg
+*.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
